@@ -23,3 +23,18 @@ b {
     border-style: groove;
     border-width: 40px;
 }
+
+.contato {
+    background-color: rgb(247, 150, 150);
+    width: 50%;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+.texto {
+    background-color: rgb(252, 182, 196);
+    width: 50%;
+    border-radius: 30px;
+    margin: auto;
+}
