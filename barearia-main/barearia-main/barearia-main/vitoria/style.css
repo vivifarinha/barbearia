@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgb(221, 224, 215);
+    font-size: 28px;
+    font-style: italic;
+    background-color: brown;
+}
+
+b {
+    color: rgb(226, 43, 98);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.imagem {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    border-color: brown;
+    border-radius: 40px;
+    border-style: groove;
+    border-width: 40px;
+}
+
+.contato {
+    background-color: rgb(247, 150, 150);
+    width: 50%;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+.texto {
+    background-color: rgb(252, 182, 196);
+    width: 50%;
+    border-radius: 30px;
+    margin: auto;
+}
