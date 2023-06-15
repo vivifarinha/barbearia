@@ -3,7 +3,7 @@ h1 {
     color: rgb(221, 224, 215);
     font-size: 28px;
     font-style: italic;
-    background-color: brown;
+    background-color: rgb(192, 52, 52);
 }
 
 b {
@@ -26,10 +26,10 @@ b {
 
 .contato {
     background-color: rgb(247, 150, 150);
-    width: 50%;
+    width: 10%;
     border-radius: 30px;
-    margin: auto;
-    text-align: center;
+    vertical-align: top;
+    display: inline-flex
 }
 
 .texto {
