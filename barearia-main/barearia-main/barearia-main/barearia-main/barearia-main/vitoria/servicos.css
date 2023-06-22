@@ -1,19 +1,16 @@
+header {
+    background-color: aquamarine;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
 nav a {
     text-transform: uppercase;
     color: brown;
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
-}
-
-nav {
-    position: relative;
-    margin-top: 20px;
-    top: 30px;
-}
-
-.caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
 }
