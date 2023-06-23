@@ -7,6 +7,11 @@ nav li {
     margin-right: 10px;
 }
 
+nav a:hover {
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 0.63)
+}
+
 nav a {
     text-transform: uppercase;
     color: rgb(10, 10, 10);
@@ -32,6 +37,22 @@ nav a {
     margin: 0 1.5%;
     padding: 30px 0px;
     box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.servicos li:hover {
+    border-color: orangered;
+}
+
+.servicos li:hover h2 {
+    font-size: 34px;
+    color: orangered;
+}
+
+.servicos li:active {
+    border-color: rgb(151, 46, 46);
+    border-width: 4px;
 }
 
 .servicos img {
