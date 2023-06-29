@@ -19,6 +19,19 @@ nav a {
     font-size: 30px;
     text-decoration: none;
 }
+
+nav {
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+
+.caixa {
+    position: relative;
+    width: 1440px;
+    margin: 0 auto;
+}
+
 .imagem {
     width: 200px;
 }
@@ -74,4 +87,19 @@ nav a {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(179, 65, 65);
+    padding: 40px;
+}
+
+footer img {
+    width: 6%;
+}
+
+.copyright {
+    font-size: 13px;
+    margin: 20px 0 0;
 }
